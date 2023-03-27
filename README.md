@@ -1,2 +1,2 @@
 # Analysis-with-R
-Analysis with random data sets
+Analysis with random datasets
